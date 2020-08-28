@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Tour Guide</string>
+    <string name="add_new_hotel">Add New Hotel</string>
+    <string name="hotel_name">Hotel Name:</string>
+    <string name="district">District:</string>
+    <string name="type">Type:</string>
+    <string name="photo">Photo:</string>
+    <string name="location">Location</string>
+    <string name="price_details">Price Details</string>
+    <string name="phone">Phone:</string>
+    <string name="update_hotel_details">Update Hotel Details</string>
+    <string name="update_details">UPDATE DETAILS</string>
+    <string name="description">Description:</string>
+    <string name="view_details">View Details</string>
+    <string name="overview">Overview</string>
+    <string name="hotel_shangri_la">Hotel Shangri-La</string>
+    <string name="rooms">Rooms</string>
+    <string name="delete_hotel">Delete Hotel</string>
+    <string name="top_destinations_in_colombo">Top Destinations In Colombo</string>
+</resources>
